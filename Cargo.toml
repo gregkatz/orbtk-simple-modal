@@ -1,0 +1,12 @@
+[package]
+name = "orbtk-simple-modal"
+description = "A Simple Modal Widget for OrbTk"
+repository = "https://github.com/gregkatz/orbtk-simple-modal"
+version = "0.1.0"
+license-file = "LICENSE"
+readme = "README.md"
+authors = ["Jeremy Soller <jackpot51@gmail.com>", "Gregory Katz <gregkatz@gmail.com>"]
+
+[dependencies]
+orbclient = "^0.3"
+orbtk = "^0.2"
